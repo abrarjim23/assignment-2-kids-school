@@ -1,0 +1,153 @@
+
+/* Document related styles */
+* {
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1160px;
+    
+}
+
+
+
+
+
+/* Common Styles */
+
+.button {
+    max-width: 197px;
+    max-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 45px;
+    text-align: center;
+    border-radius: 12px;
+    border: none;
+    color: white;
+}
+
+.primary-color {
+    color: #FEA301;
+}
+
+
+/* Nav Bar Styles */
+
+.nav-bar {
+    display: flex;
+    gap:186px; 
+    /* justify-content: center; */
+    
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap:11px;
+}
+
+.brand-name {
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+
+/* nav menu styles */
+.nav-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.nav-menu li {
+    list-style: none;
+    max-width: 387px;
+    max-height: 30px;
+
+
+}
+
+
+
+#about {
+    color: #01ACFD;
+
+}
+
+#facilities {
+    color:#05D4DF
+
+}
+
+#admission {
+    color: #5D58EF;
+
+}
+.nav-btn {
+    
+    background-color: #FEA301;
+
+
+}
+
+/* Header Section Styles */
+
+.header-section {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    
+    
+    
+    
+}
+
+.header-contents {
+    max-width: 640px;
+    max-height: 331px;
+}
+
+.header-title {
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: left;
+}
+
+.empower {
+    font-weight: bold;
+}
+
+.vision {
+    color: #01ACFD;
+    font-weight: bold;
+}
+
+.header-description {
+    font-weight: 20px;
+    font-weight: normal;
+    margin-bottom: 24px;
+    text-align: left;
+}
+
+
+
+.header-btn {
+    
+    background-color: #111111;
+    
+}
+
+.header-img {
+    width: 468px;
+    height: 575px;
+}
+
