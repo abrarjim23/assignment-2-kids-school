@@ -151,3 +151,75 @@
     height: 575px;
 }
 
+
+/* Curriculum Section */
+.curriculum-title {
+    margin-top: 60px;
+    margin-bottom: 80px;
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.curriculum-card-section {
+    display: flex;
+    gap: 28px;
+}
+
+.curriculum-card {
+    background-image: linear-gradient();
+}
+
+.curriculum-card img {
+    display: block;
+    margin: 52px auto;
+}
+
+#curriculum-card-1 {
+    border-radius: 18px;
+    border: 0.5px solid #DEF5FF;
+    background-image: linear-gradient() 
+}
+
+#curriculum-card-2 {
+    border-radius: 18px;
+    border: 0.5px solid #FFF4DC;
+    background-image: linear-gradient() 
+}
+
+#curriculum-card-3 {
+    border-radius: 18px;
+    border: 0.5px solid #F2E8FF;
+    background-image: linear-gradient() 
+}
+
+.curriculum-card-title{
+
+    margin-top: auto;
+    text-align: center;
+}
+
+.curriculum-card-description {
+
+    margin-top: 33px;
+    text-align: center;
+}
+
+.readmore {
+    margin-top: 33px;
+    text-align: center;
+    margin-bottom: 53px;
+}
+
+#readmore-1 {
+    color: #64C8FF
+
+}
+
+#readmore-2 {
+    color: #FEA301;
+}
+
+#readmore-3 {
+   color:  #5D58EF;
+}
