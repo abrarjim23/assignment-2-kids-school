@@ -516,7 +516,24 @@
     margin: 0 auto;
    }
 
+   .curriculum-title {
+    padding-top: 200px;
+    text-wrap: nowrap;
+    font-size: 32px;
+   }
 
+   .curriculum-card-section {
 
+    display: grid;
+    width: 90%;
+   }
+
+   .arrows {
+    display: none;
+   }
+
+   .story-title {
+    padding-top: 40px;
+   }
 }
 
